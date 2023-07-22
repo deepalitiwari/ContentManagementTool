@@ -18,4 +18,4 @@ Content Management Tool is a web-based content management system developed as Ta
 ## `Installation`
 <li>Clone the repository: git clone https://github.com/deepalitiwari/ContentManagementTool.git</li>
 <li>Open the project folder in your preferred code editor.</li>
-<li>Open the content-management-tool.html file in a web browser.</li>
+<li>Open the index.html file in a web browser.</li>
